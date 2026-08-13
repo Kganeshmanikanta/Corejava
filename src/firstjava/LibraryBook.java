@@ -16,9 +16,8 @@ public class LibraryBook {
 		System.out.println("BookTitle is:-"+bookTitle);
 		System.out.println("AuthorName is:-"+authorName);
 		System.out.println("Available copies is:-"+availableCopies);
-
-
 	}
+	
 	void displayLibraryDetails() {
 		System.out.println("***********Library Details*************");
 		System.out.println("LibraryName is :-"+libraryName);
