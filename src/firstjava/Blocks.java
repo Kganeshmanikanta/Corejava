@@ -9,7 +9,7 @@ public class Blocks {
 	}
 	{
 		System.out.println("Instance block called");
-		Blocks b=new Blocks();
+		
 	}
 	
 	public static void main(String[] args) {
